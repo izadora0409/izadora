@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-oi me chamo **izadora lopes**
+-oi me chamo **izadora lopes**
 
 - estoou estudando no alura
 - Estou me desenvolvendo na linguagem JavaScript
